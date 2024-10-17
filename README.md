@@ -1,6 +1,6 @@
 
 <p align="center">
-<img align="center" src="https://github.com/user-attachments/assets/07e63f70-b4fb-4f10-a253-19880de97a94" > </p>
+<img align="center" src="https://github.com/user-attachments/assets/bd44cd19-c5e7-463f-a045-4d87cd806e58" > </p>
 
 ## Problem Definition 
 Attention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental disorder characterized by persistent patterns of inattention, hyperactivity, and impulsivity that can interfere with daily functioning or development. The diagnostic criteria for ADHD are outlined in the Diagnostic and Statistical Manual of Mental Disorders, which is commonly used by mental health professionals. The core symptoms are grouped into two main categories: inattention and hyperactivity/impulsivity. To receive a diagnosis of ADHD, an individual must exhibit a sufficient number of symptoms from one or both categories, and these symptoms should significantly impact their social, academic, or occupational functioning.
