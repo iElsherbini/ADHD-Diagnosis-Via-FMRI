@@ -1,2 +1,2 @@
-problem definition: 
+## problem definition 
 Attention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental disorder characterized by persistent patterns of inattention, hyperactivity, and impulsivity that can interfere with daily functioning or development. The diagnostic criteria for ADHD are outlined in the Diagnostic and Statistical Manual of Mental Disorders, which is commonly used by mental health professionals. The core symptoms are grouped into two main categories: inattention and hyperactivity/impulsivity. To receive a diagnosis of ADHD, an individual must exhibit a sufficient number of symptoms from one or both categories, and these symptoms should significantly impact their social, academic, or occupational functioning.
